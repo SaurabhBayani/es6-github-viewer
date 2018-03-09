@@ -1,6 +1,7 @@
 # es6-github-viewer
 Simple app to search user and repos of github using all concepts of es6.
-This app covers component of ES6
+
+This app covers concepts of ES6
 
 # To Run
 1. Clone or Download and Extract
